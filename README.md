@@ -21,7 +21,23 @@ I am a passionate Data Science enthusiast skilled in:
 3. **Airline Performance Analysis Using Power BI**  
    - A dynamic dashboard for tracking airline operational metrics.  
    - [View Project](Project3_Airline_Performance/README.md)
+4. **Optimizing Retail Insights - A Walmart Case Study**  
+   - SQL-driven insights to optimize sales and inventory.  
+   - [View Project](Project4_Walmart_Insights/README.md)
+
+5. **Electric Vehicle Market Analysis Using Python**  
+   - Trend analysis and statistical modeling for market predictions.  
+   - [View Project](Project5_EV_Market_Analysis/README.md)
+
+6. **Airbnb Price Prediction**  
+   - Machine learning for predicting Airbnb listing prices.  
+   - [View Project](Project6_Airbnb_Price_Prediction/README.md)
+
+7. **IMDb Sentiment Analysis**  
+   - Analyzing movie reviews using sentiment classification.  
+   - [View Project](Project7_IMDb_Sentiment_Analysis/README.md)
 
 ## 🌟 Contact Me
 - **Email**: nethiumamaheswar@gmail.com  
 - **LinkedIn**: [Uma Maheswar Nethi](https://www.linkedin.com/in/uma-maheswar-nethi-11b596195)
+
