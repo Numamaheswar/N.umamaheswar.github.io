@@ -1,5 +1,5 @@
 # N.umamaheswar.github.io
-
+- **portfolio**: [UMAMAHESWAR NETHI](https://numamaheswar.github.io/N.umamaheswar.github.io/)
 Welcome to my Data Science Portfolio! 🚀  
 Here, you'll find a collection of my projects showcasing skills in Python, SQL, Excel, Power BI, and AI.
 
