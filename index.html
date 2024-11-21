@@ -3,25 +3,115 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio - N. Umamaheswar</title>
+    <title>Umamaheswar Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
             background-color: #f4f4f9;
-        }
-        h1 {
+            margin: 0;
+            padding: 0;
             color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        section {
+            padding: 40px;
+            text-align: center;
+        }
+        .skills {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 30px;
+        }
+        .skill-card {
+            padding: 20px;
+            border: 2px solid #ccc;
+            width: 200px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            margin-top: 40px;
+        }
+        .project-card {
+            padding: 20px;
+            border: 2px solid #ccc;
+            border-radius: 8px;
+        }
+        .project-card a {
+            text-decoration: none;
+            color: #0066cc;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
         }
     </style>
 </head>
 <body>
-    <h1>Hello, I am N. Umamaheswar!</h1>
-    <p>Welcome to my Data Science Portfolio.</p>
-    <ul>
-        <li>📊 Skills: Excel, Power BI, SQL, Python, AI</li>
-        <li>💼 Projects: Machine Learning Models, Dashboards, Automation</li>
-        <li>📬 Contact: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-    </ul>
+
+<header>
+    <h1>Welcome to Umamaheswar's Data Science Portfolio</h1>
+    <p>Passionate Data Scientist | Problem Solver | Machine Learning Enthusiast</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Hello! I am a Data Science enthusiast skilled in Python, SQL, Power BI, and AI. My goal is to leverage data to solve real-world problems and derive actionable insights.</p>
+
+    <div class="skills">
+        <div class="skill-card">
+            <h3>Python</h3>
+            <p>Data Analysis, Machine Learning, AI</p>
+        </div>
+        <div class="skill-card">
+            <h3>SQL</h3>
+            <p>Database Management, Query Optimization</p>
+        </div>
+        <div class="skill-card">
+            <h3>Power BI</h3>
+            <p>Data Visualization, Business Intelligence</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Featured Projects</h2>
+    <div class="projects">
+        <div class="project-card">
+            <h3><a href="Project1_JP_Morgan_Classification/README.md" target="_blank">JP Morgan Legal Document Classification</a></h3>
+            <p>Text classification using Natural Language Processing (NLP).</p>
+        </div>
+        <div class="project-card">
+            <h3><a href="Project2_KPMG_Data_Analysis/README.md" target="_blank">KPMG Data Analysis Using Excel</a></h3>
+            <p>Data cleaning, analysis, and visualization with Excel.</p>
+        </div>
+        <div class="project-card">
+            <h3><a href="Project3_Airline_Performance/README.md" target="_blank">Airline Performance Analysis Using Power BI</a></h3>
+            <p>Dynamic dashboard for tracking airline operational metrics.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>Contact me at: <a href="mailto:nethiumamaheswar@gmail.com" style="color:white;">nethiumamaheswar@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/uma-maheswar-nethi-11b596195" style="color:white;" target="_blank">Uma Maheswar Nethi</a></p>
+</footer>
+
 </body>
 </html>
+
