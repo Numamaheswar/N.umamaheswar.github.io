@@ -1,0 +1,13 @@
+customer_type,product_line,purchases
+Member,"Food and beverages",94
+Member,"Sports and travel",87
+Member,"Fashion accessories",86
+Member,"Home and lifestyle",83
+Member,"Electronic accessories",78
+Member,"Health and beauty",73
+Normal,"Electronic accessories",92
+Normal,"Fashion accessories",92
+Normal,"Food and beverages",80
+Normal,"Sports and travel",79
+Normal,"Health and beauty",79
+Normal,"Home and lifestyle",77
