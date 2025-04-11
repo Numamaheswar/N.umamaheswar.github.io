@@ -36,6 +36,9 @@ I am a passionate Data Science enthusiast skilled in:
 7. **IMDb Sentiment Analysis**  
    - Analyzing movie reviews using sentiment classification.  
    - [View Project](Project7_IMDb_Sentiment_Analysis/README.md)
+8. **T20 World Cup 2022 – Cricket Analytics**  
+   - analysis by tools like python,SQL,power bi 
+   - [View Project](Project8_T20 World Cup 2022 – Cricket Analytics/README.md)
 
 ## 🌟 Contact Me
 - **Email**: nethiumamaheswar@gmail.com  
