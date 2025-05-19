@@ -18,49 +18,49 @@ I am a passionate and self-driven **Data Science** enthusiast focused on buildin
 
 ### 🏏 **T20 World Cup 2022 – Cricket Analytics**
 A complete sports analytics project covering toss impact, pressure performers, match outcomes, and death-over specialists using **Power BI**, **Python**, and **SQL**.  
-🔗 [View Project](Project_T20_WorldCup_Analytics/README.md)
+🔗 [View Project](Project_T20_WorldCup_Analytics)
 
 ---
 
 ### 🤖 **Airbnb Price Prediction (ML Project)**
 Used **machine learning algorithms** to predict Airbnb listing prices based on features like location, room type, availability, and reviews.  
-🔗 [View Project](Project6_Airbnb_Price_Prediction/README.md)
+🔗 [View Project](Project6_Airbnb_Price_Prediction)
 
 ---
 
 ### 💬 **IMDb Sentiment Analysis (NLP Project)**
 Natural Language Processing project for classifying user reviews into positive or negative sentiments.  
-🔗 [View Project](Project7_IMDb_Sentiment_Analysis/README.md)
+🔗 [View Project](Project7_IMDb_Sentiment_Analysis)
 
 ---
 
 ### 📉 **JP Morgan Legal Document Classification**
 Built a **text classification model** to organize and sort legal documents using **NLP and supervised learning** techniques.  
-🔗 [View Project](Project1_JP_Morgan_Classification/README.md)
+🔗 [View Project](Project1_JP_Morgan_Classification)
 
 ---
 
 ### 📊 **Airline Performance Analysis Using Power BI**
 Developed a visually engaging **dashboard** to track key metrics like delays, cancellations, and efficiency of airlines.  
-🔗 [View Project](Project3_Airline_Performance/README.md)
+🔗 [View Project](Project3_Airline_Performance)
 
 ---
 
 ### 🛒 **Optimizing Retail Insights – A Walmart Case Study**
 Analyzed sales and inventory trends using **SQL** to generate actionable insights for business growth.  
-🔗 [View Project](Project4_Walmart_Insights/README.md)
+🔗 [View Project](Project4_Walmart_Insights)
 
 ---
 
 ### ⚡ **Electric Vehicle Market Analysis Using Python**
 Performed **trend analysis and forecasting** to predict EV adoption patterns using Python-based statistical techniques.  
-🔗 [View Project](Project5_EV_Market_Analysis/README.md)
+🔗 [View Project](Project5_EV_Market_Analysis)
 
 ---
 
 ### 📁 **KPMG Data Analysis Using Excel**
 Cleaned and transformed Excel datasets to create **pivot-based dashboards** and summarize customer and transaction patterns.  
-🔗 [View Project](Project2_KPMG_Data_Analysis/README.md)
+🔗 [View Project](Project2_KPMG_Data_Analysis)
 
 ---
 
