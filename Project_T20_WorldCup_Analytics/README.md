@@ -14,4 +14,4 @@ This project analyzes T20 World Cup 2024 match data using SQL and Power BI to un
 
 ### Project Files:
 To explore the full project files (Power BI reports, SQL queries, and dataset), navigate to the main project folder:  
-[**Click Here to View Project Files**](../T20_Cricket_Analytics/)
+[**Click Here to View Project Files**](Project_T20_WorldCup_Analytics)
