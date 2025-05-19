@@ -1,6 +1,6 @@
-# T20 World Cup 2024 – Cricket Analytics Dashboard
+# T20 World Cup  – Cricket Analytics Dashboard
 
-This project analyzes T20 World Cup 2024 match data using SQL and Power BI to uncover insights related to match outcomes, team performance, and player stats.
+This project analyzes T20 World Cup  match data using SQL and Power BI to uncover insights related to match outcomes, team performance, and player stats.
 
 ### Key Highlights:
 - Toss vs Match Winner Analysis
